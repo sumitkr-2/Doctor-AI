@@ -1,11 +1,14 @@
+
+```markdown
 # Doctor AI 💊 - Medicine Suggestor
+
+
+https://github.com/user-attachments/assets/17eae945-e54e-48dd-adda-1557824e0829
+
 
 Doctor AI is a full-stack web application that provides AI-powered medicine recommendations based on symptoms or diseases. It integrates **React.js** for the frontend, **Flask** for the backend, and the **Ollama AI model** as a virtual AI doctor. Users can also **talk to the AI doctor** and receive spoken advice.
 
-
-https://github.com/user-attachments/assets/db780437-daeb-4c0b-a5d7-73debd6352b9
-
-
+---
 
 ## Features
 
@@ -21,7 +24,7 @@ https://github.com/user-attachments/assets/db780437-daeb-4c0b-a5d7-73debd6352b9
 
 ## Architecture
 
-
+```
 
 Frontend (React.js)
 │
@@ -40,16 +43,20 @@ Ollama AI
 │
 └─ Provides context-aware medicine suggestions and guidance
 
+````
+
+---
+
 ## Technologies Used
 
 - **Frontend:** React.js, HTML5, CSS3  
 - **Backend:** Python Flask, Flask-CORS  
-- **AI Integration:** Ollama AI (mistral:latest)  
+- **AI Integration:** Ollama AI (`mistral:latest`)  
 - **Voice Interaction:** Browser Speech Recognition & Text-to-Speech APIs  
 - **Styling:** CSS Flexbox & Grid  
 - **Hosting (Optional):** Vercel / Netlify (frontend), Heroku / Railway / Local Flask (backend)  
 
-
+---
 
 ## Installation
 
@@ -57,19 +64,22 @@ Ollama AI
 
 1. Clone the repository:
 
-
+```bash
 git clone https://github.com/your-username/doctor-ai.git
 cd doctor-ai/backend
-
+````
 
 2. Install dependencies:
 
+```bash
 pip install flask flask-cors
-
+```
 
 3. Run the Flask server:
 
+```bash
 python app.py
+```
 
 The backend will run on [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
@@ -77,21 +87,27 @@ The backend will run on [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 1. Navigate to the frontend folder:
 
+```bash
 cd ../frontend
+```
 
 2. Install dependencies:
 
+```bash
 npm install
+```
 
 3. Start the React app:
 
+```bash
 npm start
+```
 
 The frontend will run on [http://localhost:3000](http://localhost:3000).
-<img width="1907" height="857" alt="Screenshot 2025-08-18 015552" src="https://github.com/user-attachments/assets/412483bf-4aec-4b3f-a809-fdf7620714dc" />
-<img width="1894" height="876" alt="Screenshot 2025-08-18 020004" src="https://github.com/user-attachments/assets/82c65c8a-afe9-457a-8dba-3c9037f6c7da" />
 
-
+---
+<img width="1907" height="857" alt="image" src="https://github.com/user-attachments/assets/5af48729-846e-4618-b365-47a9c9c950fe" />
+<img width="1894" height="876" alt="image" src="https://github.com/user-attachments/assets/b6f2f0af-db73-452f-837d-21bfdf0505ae" />
 
 
 ## Usage
@@ -103,9 +119,11 @@ The frontend will run on [http://localhost:3000](http://localhost:3000).
 5. View AI-powered medicine suggestions with descriptions, prices, and images.
 6. Click on disease names for detailed information on Wikipedia.
 
+---
 
 ## Project Structure
 
+```
 doctor-ai/
 ├── backend/
 │   ├── app.py         # Flask backend
@@ -119,6 +137,9 @@ doctor-ai/
 │   │   └── index.js
 │   └── package.json
 └── README.md
+```
+
+---
 
 ## Future Enhancements / Scope
 
@@ -131,6 +152,7 @@ doctor-ai/
 * Expand **Ollama AI capabilities** to provide detailed consultations, personalized health tips, and preventive care suggestions.
 * Add **analytics dashboard** for doctors and health administrators to monitor trends.
 
+---
 
 ## Author
 
@@ -138,3 +160,5 @@ doctor-ai/
 
 * GitHub: [https://github.com/your-username](https://github.com/sumitkr-2)
 * LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sumit-kumar2004)
+
+---
