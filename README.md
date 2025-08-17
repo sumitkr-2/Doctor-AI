@@ -1,10 +1,7 @@
-
 ```markdown
 # Doctor AI 💊 - Medicine Suggestor
 
-
-https://github.com/user-attachments/assets/17eae945-e54e-48dd-adda-1557824e0829
-
+![Doctor AI](https://github.com/user-attachments/assets/17eae945-e54e-48dd-adda-1557824e0829)
 
 Doctor AI is a full-stack web application that provides AI-powered medicine recommendations based on symptoms or diseases. It integrates **React.js** for the frontend, **Flask** for the backend, and the **Ollama AI model** as a virtual AI doctor. Users can also **talk to the AI doctor** and receive spoken advice.
 
@@ -106,9 +103,13 @@ npm start
 The frontend will run on [http://localhost:3000](http://localhost:3000).
 
 ---
+
+## Screenshots
+
 <img width="1907" height="857" alt="image" src="https://github.com/user-attachments/assets/5af48729-846e-4618-b365-47a9c9c950fe" />
 <img width="1894" height="876" alt="image" src="https://github.com/user-attachments/assets/b6f2f0af-db73-452f-837d-21bfdf0505ae" />
 
+---
 
 ## Usage
 
@@ -158,7 +159,8 @@ doctor-ai/
 
 **Sumit Kumar**
 
-* GitHub: [https://github.com/your-username](https://github.com/sumitkr-2)
-* LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sumit-kumar2004)
+* GitHub: [https://github.com/sumitkr-2](https://github.com/sumitkr-2)
+* LinkedIn: [https://www.linkedin.com/in/sumit-kumar2004](https://www.linkedin.com/in/sumit-kumar2004)
 
----
+```
+```
