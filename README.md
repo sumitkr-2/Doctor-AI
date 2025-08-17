@@ -2,7 +2,7 @@
 # Doctor AI 💊 - Medicine Suggestor
 
 
-https://github.com/user-attachments/assets/a2381e9c-987e-44b9-8bc4-7c78fd601436
+[![Watch Demo](./frontend/src/assets/thumbnail.png)](./frontend/src/assets/medi-max.mp4)
 
 
 
