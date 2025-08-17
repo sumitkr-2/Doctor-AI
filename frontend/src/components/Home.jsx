@@ -11,7 +11,7 @@ export default function Home() {
     <div>
         <Navbar/>
       <section id="home" className="section home">
-        <h1>Welcome to Home-AI 💊</h1>
+        <h1>Welcome to Doctor-AI 💊</h1>
          
          {/* Horizontal container */}
       <div className="horizontal-container">
