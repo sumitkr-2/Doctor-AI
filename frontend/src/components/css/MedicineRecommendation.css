@@ -1,0 +1,65 @@
+.medicine-section {
+  width: 90%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background: linear-gradient(145deg, #f0f0f0, #e0e0e0);
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.medicine-section h2 {
+  color: #e91e63;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.input-container input {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  flex: 1;
+  font-size: 1rem;
+}
+
+.input-container button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  background-color: #e91e63;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.input-container button:hover {
+  background-color: #ff4081;
+}
+
+.recommendation-card {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  display: inline-block;
+  text-align: center;
+  max-width: 100%;
+}
+
+.recommendation-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}

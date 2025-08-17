@@ -1,0 +1,59 @@
+/* Home.css */
+.section.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+
+  /* Combine gradient and image */
+  background: 
+    linear-gradient(135deg, rgba(109, 213, 250, 0.6), rgba(255, 255, 255, 0.6)),
+    url("../../../../frontend/public/bag1.png") no-repeat center center;
+  background-size: cover;
+}
+.section.home h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #0b3d91;
+}
+
+.section.home p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.section.home button {
+  padding: 12px 30px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #0b3d91;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.section.home button:hover {
+  background-color: #06457d;
+  transform: translateY(-2px);
+}
+
+
+.horizontal-container {
+  display: flex;
+  gap: 20px;          /* space between components */
+  justify-content: center;
+  align-items: flex-start; /* top-aligned */
+  flex-wrap: wrap;    /* responsive: wrap on smaller screens */
+  width: 100%;
+}
+
+/* Optional: make both components equal height */
+.horizontal-container > * {
+  flex: 1 1 450px; /* grow, shrink, base width */
+  max-width: 500px;
+}

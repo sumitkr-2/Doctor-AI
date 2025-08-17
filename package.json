@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "axios": "^1.11.0",
+    "react-speech-kit": "^3.0.1",
+    "react-speech-recognition": "^4.0.1",
+    "react-tsparticles": "^2.12.2",
+    "tsparticles": "^3.9.1"
+  }
+}
