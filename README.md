@@ -1,12 +1,11 @@
+
+
+https://github.com/user-attachments/assets/03cc8779-a35d-4bb0-b077-2adbecb36d1c
+
+
+
 ```markdown
 # Doctor AI 💊 - Medicine Suggestor
-
-
-https://github.com/user-attachments/assets/c54f84e7-3900-41e5-88fd-520ca080fb73
-
-
-
-
 
 
 
