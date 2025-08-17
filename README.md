@@ -1,7 +1,11 @@
 ```markdown
 # Doctor AI 💊 - Medicine Suggestor
 
-![Doctor AI](https://github.com/user-attachments/assets/17eae945-e54e-48dd-adda-1557824e0829)
+
+https://github.com/user-attachments/assets/a2381e9c-987e-44b9-8bc4-7c78fd601436
+
+
+
 
 Doctor AI is a full-stack web application that provides AI-powered medicine recommendations based on symptoms or diseases. It integrates **React.js** for the frontend, **Flask** for the backend, and the **Ollama AI model** as a virtual AI doctor. Users can also **talk to the AI doctor** and receive spoken advice.
 
@@ -18,11 +22,12 @@ Doctor AI is a full-stack web application that provides AI-powered medicine reco
 - 🔹 **Responsive Design** – Works on desktop and mobile devices.  
 
 ---
+```
 
 ## Architecture
 
-```
 
+```
 Frontend (React.js)
 │
 ├─ Input form for symptoms/disease
