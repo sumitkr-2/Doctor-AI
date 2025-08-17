@@ -2,9 +2,10 @@
 # Doctor AI 💊 - Medicine Suggestor
 
 
-<a href="https://youtu.be/IASdZtVJWEY">
-  <img src="./frontend/src/assets/thumbnail.png" width="400" alt="Watch Demo">
-</a>
+https://github.com/user-attachments/assets/c54f84e7-3900-41e5-88fd-520ca080fb73
+
+
+
 
 
 
